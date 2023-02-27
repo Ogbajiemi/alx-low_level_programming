@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - A pointer that takes in and update the value to 98
+ * reset_to_98 - A pointer that takes in and update the value to 98
  *
  * Return: Always 0 (Ssuccess)
  *
