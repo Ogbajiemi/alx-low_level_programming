@@ -36,7 +36,6 @@ listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n)
 		my_node->next = *head;
 		*head = my_node;
 	}
-
 	else
 	{
 		my_node->next = current->next;
